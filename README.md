@@ -45,6 +45,7 @@ The first major milestones for this project are outlined below:
 :o: **Runtime Scene Editing** – Modify your game while it's running.  
 :o: **Inspector Viewport** – Property editor/inspector for scene objects.  
 :o: **One-Click Builds** – Build a runtime executable for your target environment.  
+:o: **Editor Runtime** - Custom editor version of [the Aurion Runtime](https://github.com/KrytaniK/aurion-runtime), built to run in-editor.
 
 ### **Project Goals**
 
