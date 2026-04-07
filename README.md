@@ -1,10 +1,10 @@
+![Aurion Banner](https://github.com/KrytaniK/aurion-editor/blob/34c4e59ac1f4908c77dcdbc3c37e6eb0e537edd5/Assets/Editor.png)
+
 <div align="center">
 
 <a href="https://github.com/krytanik/aurion-core/graphs/contributors">![Contributors](https://img.shields.io/github/contributors/krytanik/aurion-core)</a>
 <a href="https://github.com/krytanik/aurion-core/issues">![Issues](https://img.shields.io/github/issues/krytanik/aurion-core)</a>
 <a href="">![License](https://img.shields.io/github/license/krytanik/aurion-core)</a>
-
-<h1>Aurion Editor</h1>
 
 </div>
 
